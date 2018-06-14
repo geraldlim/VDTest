@@ -1,0 +1,20 @@
+{
+  "name": "vdtest",
+  "version": "1.0.0",
+  "description": "Vaultdragon Coding Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Gerald Lim",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "moment": "^2.22.2",
+    "mongoose": "^5.1.5"
+  }
+}
